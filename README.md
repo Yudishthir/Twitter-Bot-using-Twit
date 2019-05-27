@@ -21,5 +21,5 @@ Link to Twitter developer's page : [https://developer.twitter.com](https://devel
 Link to the cursoring documentation : [https://developer.twitter.com/en/docs/basics/cursoring](https://developer.twitter.com/en/docs/basics/cursoring)
 
 ## Tasklist
- *[ ] Retrieve more than 200 data items at once.
- *[ ] Find a work around for streaming.
+ * [] Retrieve more than 200 data items at once.
+ * [] Find a work around for streaming.
