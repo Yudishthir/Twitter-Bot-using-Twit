@@ -3,7 +3,7 @@ Codes for a Twitter bot that implements the Twitter API and Twit which provides 
 
 Initialize the local repository with **npm** and add the **twit** package
 
-'''npm
+'''BASH
     npm init
     npm install twit
 '''
