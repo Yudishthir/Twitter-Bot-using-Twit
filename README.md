@@ -1,6 +1,7 @@
 # Twitter-Bot-using-Twit
 Codes for a Twitter bot that implements the Twitter API and Twit which provides a REST client for the API
 
+# Intialization
 Initialize the local repository with **npm** and add the **twit** package
 
 ```BASH
