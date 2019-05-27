@@ -2,7 +2,7 @@
 Codes for a Twitter bot that implements the Twitter API and Twit which provides a REST client for the API
 
 ## Intialization
-Initialize the local repository with **npm** and add the **twit** package
+Initialize the local repository with **npm** and add the **twit** package to the node-modules folder using the following code
 
 ```BASH
     npm install twit
